@@ -2,9 +2,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/home";
 import Events from "./pages/ExploreEvents";
-import Registration from "./pages/Registration";
-import Contact from "./pages/Contact";
-import About from "./pages/About";
+import Registration from "./pages/registration";
+import Contact from "./pages/contact";
+import About from "./pages/about";
 
 function App() {
   return (
